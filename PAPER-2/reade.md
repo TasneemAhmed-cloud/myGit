@@ -17,12 +17,12 @@
 [MEDIA LINK](https://www.youtube.com/watch?v=DlXObspmZiI "click here to see media")
 
 ## INTRODUCTION:
-### This paper is all about a computational approach to cross-link users across Twitter and GitHub. Through qualitative analysis of tweet contents, researchers report on a case study of 786 tweets by open-source developers about GitHub work, combining automatic characterization of tweet authors in terms of their relationship to the GitHub items linked in their tweets. 
-### Researcher find that different developer roles tend to have different tweeting patterns when including GitHub links in their tweets. Some repository owners promote their GitHub projects. Some people who follow others on GitHub also tweet about these people’s work, but do not otherwise contribute to those open-source projects. In short in this paper researchers show a case study about the behaviors of people by their tweets regarding Github or their work on it and the urls on their tweets.
+### This paper is all about a computational approach to cross-link users across **Twitter** and **GitHub**. Through qualitative analysis of tweet contents, researchers report on a case study of **786 tweets** by open-source developers about GitHub work, combining automatic characterization of tweet authors in terms of their relationship to the GitHub items linked in their tweets. 
+### Researchers find that different developer roles tend to have different tweeting patterns when including GitHub links in their tweets. Some repository owners promote their GitHub projects. Some people who follow others on GitHub also tweet about these people’s work, but do not otherwise contribute to those open-source projects. In short in this paper researchers show a case study about the behaviors of people by their tweets regarding Github or their work on it and the **urls** on their tweets.
 
 ## RESEARCH METHODOLOGY:
 ### In this paper researchers focus on tweets containing links to GitHub since these are more likely to be work-related as opposed to social and, therefore, among the most relevant content on which to study the impact of Twitter activity on software development outcomes.
-### Researchers used the heuristic approach to cross-link GitHub and Twitter user accounts, based on mining GitHub user profile pages and personal blogs for explicit URLs pointing to Twitter. They developed two heuristics expected to have relatively high precision: 
+### Researchers used the **heuristic approach*** to cross-link GitHub and Twitter user accounts, based on mining GitHub user profile pages and personal blogs for explicit URLs pointing to Twitter. They developed two heuristics expected to have relatively high precision: 
 ### (1) Mining explicit links to Twitter accounts from GitHub user profile pages; 
 ### (2) Crawling personal websites linked from GitHub user profile pages and mining links to Twitter accounts therein.
 ### Through, Using a **GHTorrent  MySQL dump**, they compile a list of all GitHub user logins, then use the GitHub API to mine, for each user, their profile page blog URL field. They identify **72,668 GitHub-Twitter** user account pairs.
